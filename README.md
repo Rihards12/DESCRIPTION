@@ -13,5 +13,3 @@ While developing the following standards have to be applied:
 4. you must convert the index.php from file includes to composer autoload;
 5. you must apply DocBlocks to all methods, variables, constants, classes specifying input and output types and references;
 
-We are waiting backfilled test job until Friday, 11th September. 
-If something changes, please let me know.
